@@ -19,7 +19,7 @@ for this we are using the matplotlib lib and then getting the reconstructed imag
 
 
 3. Repeat the question 2 on the denoisening autoencoder
-In this first we have executed the code which is given and then added few lines like plotting the orginal noisy and reconstructed image by getting the recostructed images for the test set and then choosing a random image from the test set.
+Here we are repeating the step 2 which we have done for autoencoder,in this first we have executed the code which is given and then added few lines like plotting the orginal noisy and reconstructed image by getting the recostructed images for the test set and then choosing a random image from the test set.
 <img width="902" alt="image" src="https://user-images.githubusercontent.com/122486644/230262173-98946f22-edd3-4f27-b26e-e207aecad561.png">
 
 
